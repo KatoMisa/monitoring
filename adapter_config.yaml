@@ -1,0 +1,8 @@
+Param:
+  Move:
+    vel: /cmd_vel
+    odom: /odom
+    Kp: 0.4
+    Ki: 0.1
+  Person_Identification:
+    image: /camera/image_raw
